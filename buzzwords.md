@@ -16,5 +16,8 @@ regular expression
 formal languages  
 maximal much  
 choose the one listed first: priority ordering/precedence  
-finite automaton  
-
+finite automata  
+nondeterministic finite automata  
+dterministic finite automata  
+epsilon-closure  
+lexical specification->regular expressions->NFA->DFA->table-driven implementation of DFA  
