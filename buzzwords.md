@@ -21,3 +21,4 @@ nondeterministic finite automata
 dterministic finite automata  
 epsilon-closure  
 lexical specification->regular expressions->NFA->DFA->table-driven implementation of DFA  
+maximum of 2^n-1 DFA states for NFA with n states  
